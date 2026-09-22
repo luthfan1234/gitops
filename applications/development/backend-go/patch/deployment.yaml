@@ -10,7 +10,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: luthfan1234/backend-go:9
+        image: luthfan1234/backend-go:10
         resources:
           requests:
             cpu: 50m
